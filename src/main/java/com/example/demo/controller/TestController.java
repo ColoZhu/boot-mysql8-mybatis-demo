@@ -24,6 +24,7 @@ public class TestController {
     public String insert(@RequestBody Demo demo) {
         //String s = JSONObject.toJSONString(stu);
         int i = demoService.insert(demo);
+        //colo branch
         return "测试成功!:结果:" + i;
     }
 
