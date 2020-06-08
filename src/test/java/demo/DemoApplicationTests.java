@@ -5,12 +5,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class DemoApplicationTests {
-
-    //DemoDao
-
     @Test
-    void contextLoads() {
-
+    public void contextLoads() {
 
     }
 
