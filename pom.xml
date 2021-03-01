@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.myself.mybatis</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>springboot-mysql8-mybatis-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>springboot-mysql8-mybatis-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
